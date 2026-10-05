@@ -9261,8 +9261,8 @@
 	)
 	(via
 		(at 186.61 103.64)
-		(size 0.6)
-		(drill 0.3)
+		(size 0.9)
+		(drill 0.4)
 		(layers "F.Cu" "B.Cu")
 		(net "+5V")
 		(uuid "7a4f1db9-3d83-4736-98b8-14b01073d086")

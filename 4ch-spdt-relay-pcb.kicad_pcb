@@ -9308,7 +9308,7 @@
 		(uuid "cd561e26-c997-441e-8ca1-cf185320d09c")
 	)
 	(gr_text "5v\n"
-		(at 147.66 124.68 0)
+		(at 146.81 124.89 0)
 		(layer "F.Fab")
 		(uuid "8575aaa6-5716-4f07-942f-d1a7725338b2")
 		(effects
@@ -9320,7 +9320,7 @@
 		)
 	)
 	(gr_text "G"
-		(at 150.62 124.6 0)
+		(at 149.56 124.88 0)
 		(layer "F.Fab")
 		(uuid "c37fa1ab-1a89-463c-a164-ad4caf59ed3c")
 		(effects

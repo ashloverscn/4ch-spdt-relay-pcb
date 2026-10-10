@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_5555555d_5555557c)
+			(layerselection 0x00000000_00000000_5555555d_5755557c)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -9334,6 +9334,17 @@
 		(layer "F.SilkS")
 		(uuid "6933e75d-a23b-4c13-82b2-7b55092a240d")
 	)
+	(gr_rect
+		(start 105.09 43.57)
+		(end 184.35 106.72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "12267bb9-4a8d-43cc-8fd4-43affd4ad37c")
+	)
 	(gr_text "SASoftwareS"
 		(at 177.04 103.18 0)
 		(layer "B.Cu")
@@ -10099,6 +10110,30 @@
 		(layer "B.Cu")
 		(net "Net-(Q4-B)")
 		(uuid "33795b03-1f04-4d11-a6a8-8eb328c4eee4")
+	)
+	(segment
+		(start 167.725 90.15)
+		(end 168.37 90.795)
+		(width 1)
+		(layer "B.Cu")
+		(net "Net-(Q4-B)")
+		(uuid "612ee87a-b8bc-4add-b067-05161c1ccd01")
+	)
+	(segment
+		(start 168.37 90.795)
+		(end 168.37 94.08)
+		(width 1)
+		(layer "B.Cu")
+		(net "Net-(Q4-B)")
+		(uuid "87351912-5ef7-4b23-ad34-03ad3a153751")
+	)
+	(segment
+		(start 166.32 90.15)
+		(end 167.725 90.15)
+		(width 1)
+		(layer "B.Cu")
+		(net "Net-(Q4-B)")
+		(uuid "94d7567e-bb4c-49bf-a10f-4000e15087e5")
 	)
 	(segment
 		(start 132.22 94.23)
